@@ -1,12 +1,12 @@
 'use strict';
 
+  const fuelPrice = 13.99;
   // const amount = 1;
-  const fuelPrice = 11.25;
   const customer = {
-    money: 560,
+    money: 132.7,
     vehicle: {
-      maxTankCapacity: 50,
-      fuelRemains: 15,
+      maxTankCapacity: 40,
+      fuelRemains: 14,
     },
   };
 
